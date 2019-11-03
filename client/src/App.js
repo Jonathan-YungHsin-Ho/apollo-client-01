@@ -7,7 +7,7 @@ import HelloLazy from './components/HelloLazy';
 function App() {
   return (
     <div className='App'>
-      <h1>React App - useLazyQuery</h1>
+      <h1>React App - ApolloClient - useLazyQuery</h1>
       <HelloLazy />
     </div>
   );
